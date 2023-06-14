@@ -1,0 +1,17 @@
+{
+  "name": "chainlink",
+  "private": true,
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bootstrap": "npm ci",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "aryabov",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "web3": "^2.0.0-alpha.1"
+  }
+}
