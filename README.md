@@ -13,6 +13,7 @@ We are publishing the sample pricing module for the benefit of the community.
 - The prices are currently surfaced in the USD equivalents.
 - The wallet assets default view is currently used to surface the pricing.
 - Widgets can be intuitively embedded into external modules.
+![FiDi Chainlink Pricing Example](https://storage.googleapis.com/fidi-tech-static1/mb/FiDi%20Chainlink%20Pricing%20Example.png"FiDi Chainlink Pricing Example")
 
 
 # Getting Started
