@@ -35,6 +35,14 @@ module.exports = {
           },
         ]
       },
+      {
+        test: /\.(webp)$/i,
+        use: [
+          {
+            loader: 'file-loader',
+          },
+        ],
+      },
     ]
   },
   plugins: [
