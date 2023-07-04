@@ -14,7 +14,7 @@ We are publishing the sample pricing module for the benefit of the community.
 - The wallet assets default view is currently used to surface the pricing.
 - Widgets can be intuitively embedded into external modules.
 ![FiDi Chainlink Pricing Example](https://storage.googleapis.com/fidi-tech-static1/mb/FiDi%20Chainlink%20Pricing%20Example.png)
-
+![FiDi Chainlink NFT Feed Example](https://storage.googleapis.com/fidi-tech-static1/mb/FiDi%20Chainlink%20NFT%20feeds.png)
 
 # Getting Started
 To use FiDi Chainlink Pricing, specify desired EVM/non-EVM wallet address and view assets and balances held in the wallet. 
